@@ -20,5 +20,20 @@ $commsets = array(
       'twitter' => 'http://twitter.com/123',
     ),
   ),
-
+  '03293CEMENABSASO' => array(
+    'mandatory_articles' => array(
+      '4759',
+      '4614',
+      '4580',
+    ),
+    'associated_aricles' => array(
+      '4743',
+      '4600',
+      '4597',
+    ),
+    'sm_links' => array(
+      'facebook' => 'http://www.anthem.com/spotlight_facebook',
+      'twitter' => 'http://www.anthem.com/spotlight_twitter',
+    ),
+  ),
 );
