@@ -22,14 +22,20 @@ $commsets = array(
   ),
   '03293CEMENABSASO' => array(
     'mandatory_articles' => array(
-      '4759',
-      '4614',
-      '4580',
+      '3348',
+      '3487',
+      '3512',
+      '3501',
+      '3493',
+      '3494',
+      '3497',
+      '3509',
+      '2795',
     ),
     'associated_aricles' => array(
-      '4743',
-      '4600',
-      '4597',
+      '3343',
+      '3459',
+      '3435',
     ),
     'sm_links' => array(
       'facebook' => 'http://www.anthem.com/spotlight_facebook',
