@@ -13,7 +13,7 @@ $commsets = array(
       '3924',
       '3926',
       '3943',
-      '3976',
+      '3980',
       '3986',
     ),
     'highlighted_article' => '3426', // <-- Highlighted article that appears above other associated articles.
