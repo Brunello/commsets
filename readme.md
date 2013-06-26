@@ -1,4 +1,4 @@
-ComSet Definitions
+CommSet Definitions
 =================
 
 Note that there are three branches:
