@@ -22,7 +22,6 @@ $commsets = array(
       '3320',
       '3323',
       '3324',
-      '3325',
     ),
     'sm_links' => array(
       'facebook' => 'http://www.anthem.com/spotlight_facebook',
