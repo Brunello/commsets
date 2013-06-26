@@ -20,6 +20,7 @@ $commsets = array(
     'associated_aricles' => array( // <-- These articles are displayed at the bottom of the landing page.
       '3435', // <-- Article Drupal Node ID.
       '3459',
+      '3412',
     ),
     'sm_links' => array(
       'facebook' => 'http://www.anthem.com/spotlight_facebook',
