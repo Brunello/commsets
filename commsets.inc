@@ -18,11 +18,11 @@ $commsets = array(
     ),
     'highlighted_article' => '3350', // <-- Highlighted article that appears above other associated articles.
     'associated_aricles' => array( // <-- These articles are displayed at the bottom of the landing page.
-      '3325', // <-- Article Drupal Node ID.
-      '3326',
-      '3342',
-      '3350',
-      '3430',
+      '2795', // <-- Article Drupal Node ID.
+      '3320',
+      '3323',
+      '3324',
+      '3325',
     ),
     'sm_links' => array(
       'facebook' => 'http://www.anthem.com/spotlight_facebook',
