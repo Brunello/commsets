@@ -8,12 +8,12 @@ $commsets = array(
     'mandatory_articles' => array( // <-- These Articles show in the blue block at the top of the LP and at the top of each Article.
       '3986', // <-- Article Drupal Node ID.
       '3835',
-      '3915',
+      '3918',
       '3920',
       '3924',
       '3926',
-      '3940',
-      '3975',
+      '3943',
+      '3976',
       '3986',
     ),
     'highlighted_article' => '3426', // <-- Highlighted article that appears above other associated articles.
