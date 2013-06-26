@@ -16,7 +16,7 @@ $commsets = array(
       '3975',
       '3986',
     ),
-    'highlighted_article' => '3350', // <-- Highlighted article that appears above other associated articles.
+    'highlighted_article' => '3426', // <-- Highlighted article that appears above other associated articles.
     'associated_aricles' => array( // <-- These articles are displayed at the bottom of the landing page.
       '2795', // <-- Article Drupal Node ID.
       '3320',
