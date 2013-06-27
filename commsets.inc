@@ -27,21 +27,27 @@ $commsets = array(
       'twitter' => 'http://www.anthem.com/spotlight_twitter',
     ),
   ),
-  '03293CEMENABSASO' => array(
+  '03293COMENABSASO' => array(
     'mandatory_articles' => array(
-      '123',
-      '456',
-      '789',
+      '4627',
+      '4627',
+      '4614',
+      '4575',
+      '4573',
+      '4572',
+      '4571',
     ),
-    'highlighted_article' => '555',
+    'highlighted_article' => '4570',
     'associated_aricles' => array(
-      '987',
-      '654',
-      '321',
+      '4569',
+      '4568',
+      '4567',
+      '4566',
+      '4580',
     ),
     'sm_links' => array(
-      'facebook' => 'http://facebook.com/123',
-      'twitter' => 'http://twitter.com/123',
+      'facebook' => 'http://www.anthem.com/spotlight_facebook',
+      'twitter' => 'http://www.anthem.com/spotlight_twitter',
     ),
   ),
 );
