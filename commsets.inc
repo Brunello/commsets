@@ -36,7 +36,7 @@ $commsets = array(
       '4633',
       '4752',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -65,7 +65,7 @@ $commsets = array(
       '4986',
       '4752',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -75,7 +75,7 @@ $commsets = array(
       '4580',
       '4568',
       '4578',
-   ),
+    ),
     'sm_links' => array(
       'facebook' => 'http://www.anthem.com/spotlight_facebook',
       'twitter' => 'http://www.anthem.com/spotlight_twitter',
@@ -95,7 +95,7 @@ $commsets = array(
       '4752',
       '4571',
       '4614',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -123,7 +123,7 @@ $commsets = array(
       '4631',
       '4752',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -152,7 +152,7 @@ $commsets = array(
       '4638',
       '4752',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -181,7 +181,7 @@ $commsets = array(
       '4637',
       '4752',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -210,7 +210,7 @@ $commsets = array(
       '4632',
       '4752',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -239,7 +239,7 @@ $commsets = array(
       '4635',
       '4752',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -269,7 +269,7 @@ $commsets = array(
       '4752',
       '4571',
       '4990',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -298,7 +298,7 @@ $commsets = array(
       '4636',
       '4752',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -327,7 +327,7 @@ $commsets = array(
       '4636',
       '4752',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -356,7 +356,7 @@ $commsets = array(
       '4631',
       '4760',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -385,7 +385,7 @@ $commsets = array(
       '4632',
       '4759',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -414,7 +414,7 @@ $commsets = array(
       '4632',
       '4759',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -451,7 +451,7 @@ $commsets = array(
       '4600',
       '4599',
       '4609',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4569',
@@ -478,7 +478,7 @@ $commsets = array(
       '4571',
       '4741',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -506,7 +506,7 @@ $commsets = array(
       '4571',
       '4741',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -535,7 +535,7 @@ $commsets = array(
       '4741',
       '4751',
       '4614',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -563,7 +563,7 @@ $commsets = array(
       '4571',
       '4741',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -591,7 +591,7 @@ $commsets = array(
       '4571',
       '4741',
       '4752',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4569',
@@ -618,7 +618,7 @@ $commsets = array(
       '4571',
       '4741',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -646,7 +646,7 @@ $commsets = array(
       '4571',
       '4741',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -674,7 +674,7 @@ $commsets = array(
       '4571',
       '4741',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -703,7 +703,7 @@ $commsets = array(
       '4741',
       '4751',
       '4990',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -731,7 +731,7 @@ $commsets = array(
       '4571',
       '4741',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -787,7 +787,7 @@ $commsets = array(
       '4571',
       '4744',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -815,7 +815,7 @@ $commsets = array(
       '4571',
       '4743',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -843,7 +843,7 @@ $commsets = array(
       '4571',
       '4743',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -878,7 +878,7 @@ $commsets = array(
       '4762',
       '4987',
       '4742',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4569',
@@ -902,7 +902,7 @@ $commsets = array(
       '4633',
       '4752',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -931,7 +931,7 @@ $commsets = array(
       '4986',
       '4752',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -961,7 +961,7 @@ $commsets = array(
       '4752',
       '4571',
       '4614',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -989,7 +989,7 @@ $commsets = array(
       '4631',
       '4752',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -1018,7 +1018,7 @@ $commsets = array(
       '4638',
       '4752',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -1047,7 +1047,7 @@ $commsets = array(
       '4637',
       '4752',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -1076,7 +1076,7 @@ $commsets = array(
       '4632',
       '4752',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -1105,7 +1105,7 @@ $commsets = array(
       '4635',
       '4752',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -1135,7 +1135,7 @@ $commsets = array(
       '4752',
       '4571',
       '4990',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -1164,7 +1164,7 @@ $commsets = array(
       '4636',
       '4752',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -1193,7 +1193,7 @@ $commsets = array(
       '4636',
       '4752',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -1222,7 +1222,7 @@ $commsets = array(
       '4631',
       '4760',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -1251,7 +1251,7 @@ $commsets = array(
       '4632',
       '4759',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -1280,7 +1280,7 @@ $commsets = array(
       '4632',
       '4759',
       '4571',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -1315,7 +1315,7 @@ $commsets = array(
       '4600',
       '4599',
       '4609',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
@@ -1345,7 +1345,7 @@ $commsets = array(
       '4571',
       '4741',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -1373,7 +1373,7 @@ $commsets = array(
       '4571',
       '4741',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -1401,7 +1401,7 @@ $commsets = array(
       '4571',
       '4741',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -1429,7 +1429,7 @@ $commsets = array(
       '4571',
       '4741',
       '4752',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4569',
@@ -1456,7 +1456,7 @@ $commsets = array(
       '4571',
       '4741',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -1484,7 +1484,7 @@ $commsets = array(
       '4571',
       '4741',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -1513,7 +1513,7 @@ $commsets = array(
       '4741',
       '4751',
       '4990',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -1541,7 +1541,7 @@ $commsets = array(
       '4571',
       '4741',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -1569,7 +1569,7 @@ $commsets = array(
       '4571',
       '4744',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -1597,7 +1597,7 @@ $commsets = array(
       '4571',
       '4743',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
@@ -1625,7 +1625,7 @@ $commsets = array(
       '4571',
       '4743',
       '4751',
-   ),
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4566',
