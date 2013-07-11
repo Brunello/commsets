@@ -743,7 +743,7 @@ $commsets = array(
       '4569',
       '4567',
       '4580',
- ),
+    ),
     'sm_links' => array(
       'facebook' => 'http://www.anthem.com/spotlight_facebook',
       'twitter' => 'http://www.anthem.com/spotlight_twitter',
