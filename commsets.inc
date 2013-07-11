@@ -11,6 +11,7 @@ $commsets = array(
       '3497',
       '3509',
       '2795',
+      '1111',
     ),
     'highlighted_article' => '3343', // <-- Highlighted article that appears above other associated articles.
     'associated_aricles' => array( // <-- These articles are displayed at the bottom of the landing page.
