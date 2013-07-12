@@ -1662,8 +1662,8 @@ $commsets = array(
       '4600',
       '4762',
       '4987',
-      '4742',
- ),
+      '4742'
+    ),
     'highlighted_article' => '4570',
     'associated_aricles' => array(
       '4576',
